@@ -1,0 +1,16 @@
+.modal {
+    width: 100%;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+}
+
+.add-btn {
+    margin-top: 10px;
+}
+
+.form {
+    padding: 20px;
+}
